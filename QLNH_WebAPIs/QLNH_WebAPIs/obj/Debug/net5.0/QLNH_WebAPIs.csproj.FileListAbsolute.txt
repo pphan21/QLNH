@@ -26,3 +26,15 @@ C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\obj\Debug\net5.0\QLNH_WebAPIs.
 C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\obj\Debug\net5.0\ref\QLNH_WebAPIs.dll
 C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\obj\Debug\net5.0\QLNH_WebAPIs.pdb
 C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\obj\Debug\net5.0\QLNH_WebAPIs.genruntimeconfig.cache
+C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\bin\Debug\net5.0\MySql.Data.dll
+C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\bin\Debug\net5.0\ZstdNet.dll
+C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\obj\Debug\net5.0\QLNH_WebAPIs.csproj.AssemblyReference.cache
