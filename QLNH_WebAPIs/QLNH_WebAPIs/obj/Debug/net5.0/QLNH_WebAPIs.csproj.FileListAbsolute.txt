@@ -11,7 +11,6 @@ C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\bin\Debug\net5.0\Microsoft.Ope
 C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\obj\Debug\net5.0\QLNH_WebAPIs.csproj.AssemblyReference.cache
 C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\obj\Debug\net5.0\QLNH_WebAPIs.GeneratedMSBuildEditorConfig.editorconfig
 C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\obj\Debug\net5.0\QLNH_WebAPIs.AssemblyInfoInputs.cache
 C:\Angular\QLNH\WebAPIs\QLNH_WebAPIs\QLNH_WebAPIs\obj\Debug\net5.0\QLNH_WebAPIs.AssemblyInfo.cs
